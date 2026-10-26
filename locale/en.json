@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skin Updates",
+    "description": "Adds manual and automatic skin updates inside the Skins settings page, downloading from the npmmirror registry instead of GitHub."
+  }
+}
